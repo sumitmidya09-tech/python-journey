@@ -1,0 +1,28 @@
+#Install pycharm in window 
+
+
+#Open your web browser.
+-Go to the official PyCharm website:
+-PyCharm Downloads
+-Choose the edition:
+  Community Edition – Free and suitable for most learners and Python developers.
+  Professional Edition – Paid, with additional features for web development, databases, and scientific tools.
+#Run the Installer
+-Open the downloaded .exe installer.
+-If Windows asks for permission, click Yes.
+-Click Next.
+#Choose Installation Options
+
+You can leave the defaults, but these options are commonly recommended:
+
+-Create Desktop Shortcut (64-bit)
+-Add "Open Folder as Project" (optional)
+-Add PyCharm to PATH (optional but useful)
+-Associate .py files with PyCharm (optional)
+
+Click Next.
+
+#Install
+-Click Install.
+-Wait for the installation to finish.
+-Click Finish
