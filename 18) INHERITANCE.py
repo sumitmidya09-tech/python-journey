@@ -18,7 +18,20 @@ class motorcycle(vehicle):
 
     def specific_usage(self):
         print("specific use: motorcycle to go work ")
+m=motorcycle()
+m.general_usage()
+m.specific_usage()
 
-c=motorcycle()
+c=car()
 c.general_usage()
 c.specific_usage()
+
+#inheritance is isinstance and issubclass
+
+print(isinstance(c,car))
+print(isinstance(m,motorcycle))
+print(isinstance(m,car))
+
+
+print(issubclass(car,vehicle))
+print(issubclass(car,motor
